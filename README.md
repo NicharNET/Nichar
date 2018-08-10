@@ -1,0 +1,3 @@
+# NicharNET
+
+Personal webpage
