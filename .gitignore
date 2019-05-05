@@ -1,4 +1,5 @@
 *.gem
+*.bat
 .bundle
 .sass-cache
 _site

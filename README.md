@@ -1,3 +1,3 @@
-# [https://nikolas-charalambidis.github.io/nikolas-charalambidis/](https://nikolas-charalambidis.github.io/nikolas-charalambidis/)
+# [https://nikolas-charalambidis.github.io](https://nikolas-charalambidis.github.io)
 
 Personal webpage
