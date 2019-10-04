@@ -2,5 +2,6 @@
 *.bat
 .bundle
 .sass-cache
+.jekyll-metadata
 _site
 Gemfile.lock
