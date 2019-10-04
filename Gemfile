@@ -3,7 +3,7 @@ ruby RUBY_VERSION
 
 gemspec
 gem "jekyll"
-gem 'html-proofer'
+gem "rake", "~> 12"
 
 group :jekyll_plugins do
   gem "jekyll-feed"
