@@ -1,6 +1,7 @@
 *.gem
 *.bat
 _draft.txt
+
 .bundle
 .sass-cache
 .jekyll-metadata
